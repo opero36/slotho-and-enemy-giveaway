@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>welcom to givaway</title>
+
 </head>
 <body>
 
